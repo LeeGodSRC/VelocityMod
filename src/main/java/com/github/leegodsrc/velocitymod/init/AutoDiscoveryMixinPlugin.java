@@ -1,4 +1,4 @@
-package com.example.init;
+package com.github.leegodsrc.velocitymod.init;
 
 import org.spongepowered.asm.lib.tree.ClassNode;
 import org.spongepowered.asm.mixin.extensibility.IMixinConfigPlugin;
